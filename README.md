@@ -16,10 +16,10 @@ I am a Junior Front-End developer looking for a full-time position in a product 
 # GitHub Stats:
 
 <a href="https://github.com/KarinaSkrypka/Karina-Skrypka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikheenko-d-s&title_color=ffffff&show_icons=true&text_color=ffffff&icon_color=ffffff&bg_color=000000&langs_count=3" alt="Dmitry's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarinaSkrypka&title_color=ffffff&show_icons=true&text_color=ffffff&icon_color=ffffff&bg_color=000000&langs_count=3" alt="Dmitry's GitHub Stats" />
 </a>
 <a href="https://github.com/KarinaSkrypka/Karina-Skrypka">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikheenko-d-s&include_all_commits=true&title_color=ffffff&show_icons=true&icon_color=ffffff&line_height=27&theme=dark" alt="Dmitry's GitHub Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KarinaSkrypka&include_all_commits=true&title_color=ffffff&show_icons=true&icon_color=ffffff&line_height=27&theme=dark" alt="Dmitry's GitHub Langs" />
 </a>
 
 # Tech skills:
